@@ -15,7 +15,7 @@ Change the -freq/-refresh to your monitor's max refresh rate.
 ### autoexec config file
 
 Drop autoexec.cfg at: `Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\` folder.
-For CS:GO2, drop autoexec.cfg at : `\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\` folder.
+<br>For CS:GO2, drop autoexec.cfg at : `\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\` folder.
 
 Note that you can change the keybinds to your liking -> `bind "key" "command"`
 e.g. I use the num pad to buy items (search for `"//Keybinds"` and adjust accordingly)
