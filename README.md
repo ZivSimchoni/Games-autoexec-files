@@ -9,7 +9,7 @@ Change the -freq/-refresh to your monitor's max refresh rate.
 ### CS:GO Launch Options
 
 ```
--nointro -novid -nojoy -high -tickrate 128 -forcenovsync -refresh 145 +fps_max 145 -console +exec autoexec.cfg
+-nointro -novid -nojoy -high -tickrate 128 -forcenovsync -refresh 145 +fps_max 145 +cl_forcepreload 1 -console +exec autoexec.cfg
 ```
 
 ### autoexec config file
